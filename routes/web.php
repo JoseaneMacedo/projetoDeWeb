@@ -13,7 +13,7 @@ use Illuminate\Support\Facades\Route;
 | be assigned to the "web" middleware group. Make something great!
 |
 */
-//Alteração teste
+//Alteração - Segunda tentativa de teste
 
 Route::get('/', function () {
     return view('welcome');
